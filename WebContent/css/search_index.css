@@ -1,0 +1,14 @@
+.search_tb {
+	font-family: 微软雅黑;
+	width: 100%;
+	margin-top: 10px;
+	background: white;
+}
+
+.search_tb tr {
+	height: 75px;
+}
+
+.search_tb td {
+	text-align: left;
+}

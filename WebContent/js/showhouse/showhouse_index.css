@@ -1,0 +1,31 @@
+.showhouse_div {
+	float: left;
+	padding: 15px 5px 15px 5px;
+	margin-left:45px;
+	width: 210px;
+	height: 240px;
+	cursor: pointer;
+	font-size:12px;
+	background:white;
+}
+
+.showhouse_div ul li {
+	list-style-type: none;
+}
+
+.showhouse_img {
+	width: 210px;
+	height: 160px;
+	border:1px solid #A8A8A8;
+}
+
+.showhouse_title{
+	letter-spacing: 2px;
+	font-weight: bold;
+}
+
+.showhouse_money{
+	color:#B22222;
+	font-size:13px;
+	letter-spacing: 1px;
+}

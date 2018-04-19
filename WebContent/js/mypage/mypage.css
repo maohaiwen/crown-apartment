@@ -1,0 +1,16 @@
+#mypage_div a { font-family:微软雅黑;
+				font-size: 14px;
+				margin-left:2px;
+				margin-right:2px;
+				border:1px solid #96CDCD;
+				text-decoration:none;
+				padding:1px 4px 1px 4px;
+				color:white;
+				background: #6495ED;}
+				
+#mypage_div a:hover { 
+				color:#7AC5CD;
+				background-color:#F0F8FF;
+				text-decoration:underline;}
+.text_page {width:40px;height:23px;}
+.mypage_btn {}
